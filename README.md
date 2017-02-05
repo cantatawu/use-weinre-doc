@@ -17,9 +17,7 @@ weinre --httpPort 8081 --boundHost -all-    /*这里的端口8081可以自定义
 
 ```
 
-## 3. 开始
-
-* 浏览器打开weinre首页
+## 3. 浏览器打开weinre首页
 
 
 ![res](http://img.blog.csdn.net/20170205174740856)
