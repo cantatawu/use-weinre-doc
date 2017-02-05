@@ -17,7 +17,7 @@ weinre --httpPort 8081 --boundHost -all-    /*这里的端口8081可以自定义
 
 ```
 
-## 3. 调试js引入
+## 3. 调试页面js引入
 
 ![res](http://img.blog.csdn.net/20170205172425854)
 
